@@ -18,6 +18,8 @@ html,body{
 body{
 	background: #1E242A;
 	color: #ffffff;
+	-webkit-transition: .4s;
+	transition: .4s;
 }
 
 /* header - theme switcher */
@@ -93,6 +95,8 @@ input:checked + .slider:before {
 .light-mode {
 	background-color: white;
 	color:black;
+	-webkit-transition: .4s;
+	transition: .4s;
 }
 
 /* main */
